@@ -1,2 +1,0 @@
-# restFullApi
-rest api practice
